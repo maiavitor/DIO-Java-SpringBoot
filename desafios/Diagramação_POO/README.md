@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     Iphone --|> ReprodutorMusical
     Iphone --|> AparelhoTelefonico
@@ -17,3 +18,4 @@ classDiagram
       +adicionarNovaAba()
       +atualizarPagina()
     }
+```
